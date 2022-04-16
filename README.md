@@ -1,7 +1,7 @@
 # WCAT commands
 
 
-It is used to display content of one or more files in the terminal according to the given commands.
+It is used to display content of one or more files in the terminal according to the given commands
 
 General Syntax:
 node wcat.js [options] [filepaths]
